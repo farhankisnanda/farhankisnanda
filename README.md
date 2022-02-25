@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Farhan 👋🏼👨🏼‍💻
+### Hi, I'm Farhan 👋🏼👨🏼‍💻
 ![](https://media-exp1.licdn.com/dms/image/C5616AQF8zu7LAdoiyw/profile-displaybackgroundimage-shrink_200_800/0/1645831868705?e=1651104000&v=beta&t=dqd-HVf3drqbhfhFcIG66rrMSp6liabMLv8ZO061nTI)
 
 Engineering student with great interest in web development. Diligent in studying the development of existing
