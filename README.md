@@ -9,7 +9,7 @@ an organization. I could adapt quickly to ever-changing situations.
 
 ## Github Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhankisnanda&show_icons=true&theme=yeblu&hide=prs&line_height=24)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhankisnanda&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhankisnanda&layout=compact&theme=yeblu&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find Me 🌍
 - Sharing updates on <a href="https://www.linkedin.com/in/m-farhan-kisnanda-575b97194/">LinkedIn</a>
